@@ -52,7 +52,7 @@ const SignUp = () => {
             className="w-[115px] h-[34px]"
           />
           <Text className="text-2xl font-semibold center text-white mt-10 font-psemibold">
-            Sign Up to Aora
+            Sign Up to Aura
           </Text>
 
           <FormField
